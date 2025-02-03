@@ -1,6 +1,6 @@
-# Introduction to Machine Learning
+# Introduction to Machine Learning and Information Security
 
-Machine Learning (ML) is a part of Artificial Intelligence (AI) that helps computers learn from data and make decisions without needing explicit instructions.
+Machine Learning (ML) is a part of Artificial Intelligence (AI) that helps computers learn from data and make decisions without needing explicit instructions. Information Security (InfoSec) focuses on protecting digital data, networks, and systems from unauthorized access, attacks, or damage.
 
 ---
 
@@ -46,10 +46,13 @@ Machine Learning (ML) is a part of Artificial Intelligence (AI) that helps compu
 
 ---
 
-## How AI, ML, and DL are Related
-- **AI** is the big idea of creating smart machines.
-- **ML** is a way to teach machines by giving them lots of examples.
-- **DL** is a powerful type of ML that mimics the human brain for complex tasks.
+## AI, ML, and Information Security
+- **AI & ML** are used in **Information Security (InfoSec)** to detect and prevent threats.
+- **InfoSec protects AI systems** by ensuring data confidentiality, integrity, and availability.
+- **AI in Cybersecurity Applications:**
+  - **Threat Detection:** Identifying malware and cyber-attacks.
+  - **Anomaly Detection:** Recognizing unusual patterns in network traffic.
+  - **Fraud Prevention:** Detecting fraudulent activities in finance and banking.
 
 ---
 
@@ -80,8 +83,17 @@ Some important math concepts used in ML:
 
 ---
 
-## Common Challenges in Machine Learning
+## Information Security and Machine Learning
+- **Cyber Threats:** Hackers use AI to find system weaknesses, while cybersecurity teams use ML to predict and prevent attacks.
+- **AI-Driven Security Systems:** ML-based tools can automate threat detection and response.
+- **Encryption & AI:** AI helps in designing better encryption methods for securing data.
+- **Privacy and Ethics:** Protecting personal data while using AI is a major challenge.
+
+---
+
+## Common Challenges in Machine Learning and Cybersecurity
 - **Overfitting:** AI memorizes data instead of learning useful patterns.
 - **Underfitting:** AI is too simple and doesn’t learn enough.
 - **Regularization:** A technique to stop overfitting.
 - **Cross-validation:** A way to test AI on different data to make it better.
+- **Security Risks in AI:** AI models can be attacked by adversaries (e.g., adversarial AI, data poisoning, model evasion).
